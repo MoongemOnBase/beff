@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/chivo/v18/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/chivo/v18/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/chivo/v18/va9b4kzIxd1KFppkaRKvDRPJVDf_Wxjulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fragment Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/fragmentmono/v4/4iCr6K5wfMRRjxp0DA6-2CLnN4Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/syncopate/v22/pe0sMIuPIYBCpEV5eFdyAg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/syncopate/v22/pe0pMIuPIYBCpEV5eFdKvtKaAw.ttf) format('truetype');
+}
